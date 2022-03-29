@@ -1,1 +1,2 @@
-# Championship-Manager
+- This program is created to store and record the driver and race details
+- A OOP Module coursework which is developed using Java and Javaswing with the knowledge of OOP concepts
